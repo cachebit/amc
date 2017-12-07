@@ -1,5 +1,12 @@
-复制前一课内容。
-1、更新title；
-2、更新标题；
-3、更新下载文字；
-4、更新下载链接和密码；
+﻿一、更新index,html
+增加一个panel primary的div。
+更新内容和链接
+前面课程改成 defualt panel
+
+二、增加子文件夹和文件
+course.html
+修改title，标题和链接
+增加公开附件页面
+修改title和标题和链接
+
+测试一下
